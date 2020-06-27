@@ -1,2 +1,2 @@
-# angular-github-pages-demo
-Demo for Angular GitHub pages
+# angular-static-web-app
+Demo for Angular Azure Static Web App
